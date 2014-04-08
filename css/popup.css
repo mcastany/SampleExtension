@@ -1,0 +1,29 @@
+/**
+ * Copyright (c) 2012 The Chromium Authors. All rights reserved.
+ * Use of this source code is governed by a BSD-style license that can be
+ * found in the LICENSE file.
+ */
+
+body {
+	font-family: Segoe UI;
+	margin: 5px 10px 10px;
+	min-width: 300px;
+}
+
+header{
+	text-align: center;
+	width:100%;
+}
+
+ul { 
+	list-style-type: none; 
+	margin: 0; 
+	padding: 0; 
+	margin-bottom: 10px; 
+}
+  
+li { 
+	margin: 5px; 
+	padding: 5px; 
+	width: 150px; 
+}

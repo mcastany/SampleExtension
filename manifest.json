@@ -1,0 +1,15 @@
+{
+  "manifest_version": 2,
+  "name": "YouTrack to Wolof",
+  "description": "This extension shows the backlog in the Wolof way :P.",
+  "version": "1.0",
+  "permissions": [ 
+	"contentSettings",
+	"tabs" ,
+    "activeTab"
+	],
+  "browser_action": {
+    "default_icon": "icon.png",
+    "default_popup": "popup.html"
+  }
+}
